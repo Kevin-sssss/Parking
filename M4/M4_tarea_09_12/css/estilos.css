@@ -1,0 +1,20 @@
+.google1{
+	text-align: center;
+	margin-left: 5%;
+}
+.monlau{
+	float: right;
+	width: 9%;
+}
+.photo{
+	float: left;
+	text-align: center;
+	width: 14.2%;
+}
+.apps4{
+	width: 75%;
+	margin: auto;
+	position:absolute;
+	bottom: 100px;
+	left: 12.5%;
+}
